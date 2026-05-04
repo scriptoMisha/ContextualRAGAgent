@@ -1,4 +1,4 @@
-~~# Contextual RAG Agent
+# Contextual RAG Agent
 
 Диалоговый RAG-агент для консультаций по правилам международной стажировки CdekStart (Тестовое задание для CDEK).
 
